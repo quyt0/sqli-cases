@@ -1,0 +1,1 @@
+A curated collection of advanced SQL Injection cases for research and demo purposes. Includes handcrafted binary search data dumps, tamper scripting with SQLMap (ROT13 decoding), SQLi in stored procedures across MSSQL, and remote code execution via stacked queries or file read/write techniques. Designed for offensive security learning, red teaming, and lab environments.
